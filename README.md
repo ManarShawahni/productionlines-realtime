@@ -1,6 +1,8 @@
 # Pharmaceutical Production Simulation 🏭
 
-https://github.com/user-attachments/assets/7fad2628-0c63-420b-bb4a-7de1af74e5e1
+
+https://github.com/user-attachments/assets/1cd7e79e-a9fa-4c81-a288-cc91e8582e8e
+
 
 ## Description
 This simulation project is designed to model and visualize the pharmaceutical production process for both liquid and pill medicines (lines). It uses advanced programming concepts including multi-threading, inter-process communication (IPC), and shared memory, combined with real-time visualization using OpenGL. The core objective is to manage a production environment where conditions such as workload and resource allocation dynamically change and require real-time adjustments.
