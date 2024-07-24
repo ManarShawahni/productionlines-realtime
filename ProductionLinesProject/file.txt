@@ -1,0 +1,8 @@
+num_production_lines=6
+num_medicines=10
+liquid_failure_rate=5
+pill_failure_rate=4
+max_produced_medicines=7
+max_out_of_spec_liquid_medicines=50
+max_out_of_spec_pill_medicines=50
+simulation_duration=1

@@ -1,0 +1,24 @@
+liquid,1,Paramol,50-100,clear,1,1,1
+liquid,2,Cough Syrup,45-90,red,1,1,1
+liquid,3,Nyquil,30-60,green,1,1,1
+liquid,4,Antacid,25-50,blue,1,1,1
+liquid,5,Vitamin D3,10-40,yellow,1,1,1
+liquid,6,Iron Supplement,35-70,dark red,1,1,1
+liquid,7,Calcium,20-45,white,1,1,1
+liquid,8,Omega-3,15-30,light yellow,1,1,1
+liquid,9,Children's MultiVitamin,10-25,orange,1,1,1
+liquid,10,Pain Reliever,40-80,pink,1,1,1
+liquid,11,Anti-inflammatory,30-60,purple,1,1,1
+liquid,12,Sleep Aid,25-50,clear,1,1,1
+pill,1,Aspirin,20,white,medium,1
+pill,2,Ibuprofen,15,orange,small,1
+pill,3,Paracetamol,10,white,small,1
+pill,4,Vitamin C,25,yellow,large,1
+pill,5,Zinc,30,blue,small,1
+pill,6,Magnesium,20,white,medium,1
+pill,7,Antihistamine,15,green,small,1
+pill,8,Caffeine,40,black,small,1
+pill,9,Melatonin,25,blue,medium,1
+pill,10,Garlic,20,yellow,small,1
+pill,11,Lysine,15,white,medium,1
+pill,12,BCAAs,30,purple,large,1
